@@ -3,8 +3,8 @@
 A computer vision-based system for tracking and analyzing wrist range of motion (ROM) using colored markers. Designed for physical therapy and rehabilitation tracking with real-time feedback and comprehensive progress analytics.
 
 ## Demo
+![Wrist Motion Capture Demo](software-walkthrough.gif)
 
-![Demo GIF](demo.gif)
 *Real-time wrist motion tracking and progress analytics*
 
 ## Features
