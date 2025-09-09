@@ -4,8 +4,8 @@ A computer vision-based system for tracking and analyzing wrist range of motion 
 
 ## Demo
 
-[Watch Software Walkthrough](Software%20Walkthrough.mp4)
-*Complete demonstration of the wrist motion capture system in action*
+![Demo GIF](demo.gif)
+*Real-time wrist motion tracking and progress analytics*
 
 ## Features
 
